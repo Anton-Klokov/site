@@ -1,4 +1,4 @@
-* {
+﻿* {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100%;
-    background-image: url(Химия.jpg);
+    background-image: url(1.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -68,6 +68,6 @@ footer {
 }
 @media only screen and (max-width:767px) {
     body {
-        background-image: url(Химия.jpg);
+        background-image: url(1.jpg);
     }
 }
